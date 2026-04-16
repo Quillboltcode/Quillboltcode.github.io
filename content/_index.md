@@ -19,6 +19,7 @@ sections:
       button:
         text: Download CV
         url: uploads/resume.pdf
+        style: default
       headings:
         about: ''
         education: ''

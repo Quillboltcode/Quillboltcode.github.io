@@ -1,0 +1,17 @@
+/* Custom styles to remove gradient from Download CV button */
+.btn,
+.btn-primary,
+a.btn,
+.hero-buttons .btn {
+  background-image: none !important;
+  background: var(--primary-500) !important;
+  box-shadow: none !important;
+}
+
+/* Dark mode support */
+.dark .btn,
+.dark .btn-primary,
+.dark a.btn,
+.dark .hero-buttons .btn {
+  background: var(--primary-600) !important;
+}
