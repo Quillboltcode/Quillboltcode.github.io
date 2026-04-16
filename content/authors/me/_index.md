@@ -51,7 +51,7 @@ social:
     label: Hanoi, Vietnam
 
 # Featured image (displayed on homepage)
-avatar: ../media/authors/IMG_9471%20copy.JPG
+avatar: ../media/authors/me.png
 
 # Enable page creation for author profile (set to true to create an author page)
 build:
