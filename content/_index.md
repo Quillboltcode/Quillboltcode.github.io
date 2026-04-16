@@ -24,10 +24,10 @@ sections:
         education: ''
         interests: ''
     design:
-      # Use the new Gradient Mesh which automatically adapts to the selected theme colors
+      # Use solid color for minimalist look
       background:
-        gradient_mesh:
-          enable: true
+        color:
+          value: '#ffffff'
 
       # Name heading sizing to accommodate long or short names
       name:
