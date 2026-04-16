@@ -23,7 +23,6 @@ cover:
   fade:
     enabled: true
     height: "80px"
-  icon: "📚"
 ---
 
 > [!NOTE]
