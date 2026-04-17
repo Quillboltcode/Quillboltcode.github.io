@@ -48,24 +48,16 @@ experience: []
 skills:
   - name: Languages
     items:
-      - label: Python
-        level: 5
-      - label: C++
-        level: 4
-      - label: SQL
-        level: 3
+      - Python
+      - C++
+      - SQL
   - name: AI Frameworks
     items:
-      - label: PyTorch
-        level: 5
-      - label: HuggingFace
-        level: 5
-      - label: DINOv2
-        level: 4
-      - label: CLIP
-        level: 4
-      - label: LangChain
-        level: 4
+      - PyTorch
+      - HuggingFace
+      - DINOv2
+      - CLIP
+      - LangChain
 
 languages:
   - name: Vietnamese
