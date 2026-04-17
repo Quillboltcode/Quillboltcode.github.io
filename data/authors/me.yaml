@@ -60,12 +60,8 @@ skills:
       - LangChain
 
 languages:
-  - name: Vietnamese
-    level: 5
-    label: Native
-  - name: English
-    level: 4
-    label: Fluent
+  - Vietnamese
+  - English
 
 awards:
   - title: Resfes 2025 Competition - 3rd Place
