@@ -1,7 +1,7 @@
 ---
 title: 🎯 Thinking with LLMs - Reading List
 summary: A curated reading list for understanding adaptive computation and thinking in LLMs
-date: 2024-04-16
+date: 2026-05-08
 authors:
   - me
 tags:
