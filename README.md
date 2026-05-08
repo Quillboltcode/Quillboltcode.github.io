@@ -9,6 +9,10 @@ Deep Learning Researcher & Systems Engineer focused on Vision-Language Models (V
 - **ORCID:** 0009-0002-5847-8448
 - **Google Scholar:** https://scholar.google.com/citations?user=dCHJAd0AAAAJ&hl=en
 
+## Quick Links
+
+- **GitHub Actions:** https://github.com/Quillboltcode/Quillboltcode.github.io/actions
+
 ## Publications
 
 1. **Enhancing Facial Expression Recognition by Self-Distillation** (2024) - ACOMPA 2024
